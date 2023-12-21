@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">Software engineer - Python Developer - Django Developer</h3>
 
-- 🌱 I’m currently learning **Node**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 📫 How to reach me **mostafabebars2000@gmail.com**
