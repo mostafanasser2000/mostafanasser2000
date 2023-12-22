@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">Software engineer - Python Developer - Django Developer</h3>
+<h1 align="center">Hi 👋, I'm Mostafa Nasser</h1>
 
-- 👯 I’m looking to collaborate on **Open source projects**
+
+- 🔭I'm interested in **Python** and **Backend Development**
+
+- 👯 I’m looking to collaborate on **Python Projects, Django Project, and open source projects**
+
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **mostafabebars2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mostafanasser2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafanasser2000/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mustafanasser503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mustafanasser503" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mustafanasser503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mustafanasser503/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafanasser2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafanasser2000/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/mustafanasser503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mustafanasser503" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mustafanasser503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mustafanasser503/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafanasser2000&show_icons=true&locale=en" alt="mostafanasser2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafanasser2000&" alt="mostafanasser2000" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafanasser2000" alt="mostafanasser2000" /></a> </p>
