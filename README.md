@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects, Django Project, and open source projects**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **mostafabebars2000@gmail.com**
 
